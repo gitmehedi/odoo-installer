@@ -1,11 +1,10 @@
 #!/bin/bash
 ################################################################################
 # Script for Installation: ODOO Saas4/Trunk server on Ubuntu 14.04 LTS
-# Author: Mehedi Hasan Rahman, 2016
+# Author: Mehedi Hasan, 2016
 #-------------------------------------------------------------------------------
 #  
 # This script will install ODOO Server on
-# clean Ubuntu 14.04 Server
 #-------------------------------------------------------------------------------
 # USAGE:
 #
