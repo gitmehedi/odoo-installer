@@ -7,7 +7,7 @@
 ```$ sudo apt-get install npm``` <br />
 ```$ sudo npm install -g less```
 
-#### check for installation: 
+#### Check for installation: 
 
 ```$ which lessc```  <br />
 ```$ lessc -v```
