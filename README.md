@@ -1,4 +1,4 @@
-# Setup Odoo 
+# [Setup Odoo ]
 
 ## Scripts and It's Related Library
 
