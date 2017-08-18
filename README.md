@@ -6,6 +6,10 @@
 
 ```$ sudo apt-get install npm``` <br />
 ```$ sudo npm install -g less```
+#### Sometimes it may show's error or warnign, then run those command
+```$ sudo npm cache clean -f```<br />
+```$ sudo npm install -g n```<br />
+```$ sudo n stable```<br />
 
 #### Check for installation: 
 
