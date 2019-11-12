@@ -1,4 +1,4 @@
-# [Setup Odoo ]
+# [Setup Odoo for Redhat 7]
 
 ## Scripts and It's Related Library
 
