@@ -92,6 +92,8 @@ Description=OGL Application
 
 [Service]
 ExecStart=/etc/odoo.sh
+ExecReload=/bin/kill -s HUP $MAINPID
+ExecStop=/bin/kill -s TERM $MAINPID
 
 [Install]
 WantedBy=multi-user.target" > /usr/lib/systemd/system/odoo.service
