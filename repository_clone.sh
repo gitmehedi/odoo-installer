@@ -12,7 +12,7 @@ fi
 while read line
 do
     git clone -b $VERSION --single-branch $line
-    echo -e "Repository $element cloned successfully"
+    echo -e "========== Repository $line with Branch $VERSION Cloned Successfully =========="
 done < $FILE
 
 echo -e "========== All Repository Cloned =========="
