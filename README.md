@@ -5,7 +5,7 @@
 ### Install LESS on Ubuntu with npm
 
 ```$ sudo apt-get install npm``` <br />
-```$ sudo npm install -g less```
+```$ sudo npm install -g less@3.0.4```
 #### Sometimes it may show's error or warning, then run those command
 ```$ sudo npm cache clean -f```<br />
 ```$ sudo npm install -g n```<br />
@@ -27,5 +27,3 @@
 ```$ sudo apt-get update```<br />
 ```$ sudo apt-get install xvfb```<br />
 ```$ sudo apt-get install wkhtmltopdf```<br />
-
-## Additional Fields
