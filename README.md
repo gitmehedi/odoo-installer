@@ -24,6 +24,6 @@
 ```$ sudo cp /usr/local/bin/wkhtmltoimage /usr/bin```
 
 ## OR Install Using
-```$ sudo apt-get update```<br />
-```$ sudo apt-get install xvfb```<br />
-```$ sudo apt-get install wkhtmltopdf```<br />
+```$ sudo apt-get -y update```<br />
+```$ sudo apt-get install -y xvfb```<br />
+```$ sudo apt-get install -y wkhtmltopdf```<br />
