@@ -32,6 +32,6 @@
 
 ### Virtuual Environment in 2.7
 Install dependend os package for virtual environment  
-``` $ apt-get install virtualenv```
+``` $ apt-get install virtualenv```  
 Configure virtual environment for python  
 ```$ virtualenv -p /usr/bin/python2.7 venv```
