@@ -27,3 +27,11 @@
 ```$ sudo apt-get -y update```<br />
 ```$ sudo apt-get install -y xvfb```<br />
 ```$ sudo apt-get install -y wkhtmltopdf```<br />
+
+## Create virtual Environment 
+
+### Virtuual Environment in 2.7
+Install dependend os package for virtual environment
+``` $ apt-get install virtualenv```
+Configure virtual environment for python
+```$ virtualenv -p \usr\bin\python2.7 venv```
