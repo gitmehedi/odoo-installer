@@ -54,7 +54,7 @@ $ sudo cp /usr/local/bin/wkhtmltoimage /usr/bin
 
 ### Create virtual Environment 
 
-#### Virtuual Environment in 2.7
+#### Virtuual Environment for python2
 Install dependend os package for virtual environment  
 ``` 
 $ apt-get install -y virtualenv
@@ -65,7 +65,7 @@ $ virtualenv -p /usr/bin/python2.7 venv
 ```
 
 
-#### Virtuual Environment in 2.7
+#### Virtuual Environment for python3
 Install dependend os package for virtual environment  
 ``` 
 $ apt-get install -y venv
