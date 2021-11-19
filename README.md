@@ -1,4 +1,13 @@
-# [Setup Odoo ]
+# [Odoo Installation]
+- [[Odoo Installation]](#odoo-installation)
+  - [Scripts and It's Related Library](#scripts-and-its-related-library)
+    - [Install LESS on Ubuntu with npm](#install-less-on-ubuntu-with-npm)
+      - [Sometimes it may show's error or warning, then run those command](#sometimes-it-may-shows-error-or-warning-then-run-those-command)
+      - [Check for installation:](#check-for-installation)
+    - [Install wkhtmltopdf and place on correct place for ODOO](#install-wkhtmltopdf-and-place-on-correct-place-for-odoo)
+  - [OR Install Using](#or-install-using)
+  - [Create virtual Environment](#create-virtual-environment)
+    - [Virtuual Environment in 2.7](#virtuual-environment-in-27)
 
 ## Scripts and It's Related Library
 
