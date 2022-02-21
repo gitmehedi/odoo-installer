@@ -53,7 +53,7 @@ $ sudo cp /usr/local/bin/wkhtmltoimage /usr/bin
 #### Version Check of WKHTMLTOPDF
 ```
 $ wkhtmltopdf --version
-$ $ wkhtmltoimage --version
+$ wkhtmltoimage --version
 ```
 ### References:
 - https://computingforgeeks.com/install-wkhtmltopdf-on-ubuntu-debian-linux/
