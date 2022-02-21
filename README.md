@@ -58,6 +58,7 @@ $ $ wkhtmltoimage --version
 ### References:
 - https://computingforgeeks.com/install-wkhtmltopdf-on-ubuntu-debian-linux/
 - https://wkhtmltopdf.org/downloads.html
+- https://www.thelinuxfaq.com/ubuntu/ubuntu-17-04-zesty-zapus/wkhtmltopdf?type=uninstall
 
 ### Create virtual Environment 
 
