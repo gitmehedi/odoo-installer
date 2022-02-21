@@ -50,7 +50,15 @@ $ sudo dpkg -i wkhtmltox-0.12.1_linux-trusty-amd64.deb?dl=0
 $ sudo cp /usr/local/bin/wkhtmltopdf /usr/bin
 $ sudo cp /usr/local/bin/wkhtmltoimage /usr/bin
 ```
-
+#### Version Check of WKHTMLTOPDF
+```
+$ wkhtmltopdf --version
+$ $ wkhtmltoimage --version
+```
+### References:
+- https://computingforgeeks.com/install-wkhtmltopdf-on-ubuntu-debian-linux/
+- https://wkhtmltopdf.org/downloads.html
+- 
 
 ### Create virtual Environment 
 
