@@ -46,6 +46,7 @@ $ sudo apt-get install -y wkhtmltopdf
 
 ```
 $ sudo wget https://www.dropbox.com/s/if6t5vqy6fsglqs/wkhtmltox-0.12.1_linux-trusty-amd64.deb?dl=0
+$ wget https://github.com/wkhtmltopdf/wkhtmltopdf/releases/download/0.12.5/wkhtmltox_0.12.5-1.bionic_amd64.deb
 $ sudo dpkg -i wkhtmltox-0.12.1_linux-trusty-amd64.deb?dl=0
 $ sudo cp /usr/local/bin/wkhtmltopdf /usr/bin
 $ sudo cp /usr/local/bin/wkhtmltoimage /usr/bin
@@ -59,6 +60,7 @@ $ wkhtmltoimage --version
 - https://computingforgeeks.com/install-wkhtmltopdf-on-ubuntu-debian-linux/
 - https://wkhtmltopdf.org/downloads.html
 - https://www.thelinuxfaq.com/ubuntu/ubuntu-17-04-zesty-zapus/wkhtmltopdf?type=uninstall
+- https://github.com/wkhtmltopdf/wkhtmltopdf/releases/0.12.5/
 
 ### Create virtual Environment 
 
