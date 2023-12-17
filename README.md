@@ -31,18 +31,18 @@ In all actions there are several fields available
 - **Action Type**: Action type is Where we define the type or category of the current action.
 
 **Optional Fields**  
-- res_model, 
-- binding_model_id, 
-- binding_view_types, 
-- view_id, 
-- view_ids, 
-- view_mode, 
-- view_type, 
-- search_view_id, 
-- state, 
-- code, 
-- domain, 
-- context, 
+- res_model
+- binding_model_id
+- binding_view_types
+- view_id
+- view_ids
+- view_mode
+- view_type
+- search_view_id
+- state
+- code
+- domain
+- context
 - target
 
 
